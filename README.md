@@ -2,4 +2,4 @@
 DataScience and Visualisations Portfolio.
 
 
-[Mapping_Earthquakes](https://github.com/RoopaRaghav/Mapping_Earthquakes.git)
+https://github.com/RoopaRaghav/Mapping_Earthquakes.git
